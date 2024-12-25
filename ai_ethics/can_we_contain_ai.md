@@ -1,11 +1,11 @@
-# Can we contain AI by laws ?
+# Can we contan AI by laws ?
 
 Today, it is possible with a relatively modest hardware to train your own LLM model. With LoRA technique, fine tuning a model and giving it new skills is becoming a kid's game. Which means that regulation is not  going to be able to stop AI from being missused. It would most likely favor the big companies who can afford to do model check (whatever that means) and instantly kill all small buisinesses that are based on open source models.
 
 My problem with AI is power gained by few. And complete opacity about what's hapening under the hood.
 Today, the truth is what google says: when someone doesn't know something, he asks google. But that is now shifting towards chatgpt. Tomorrow, the truth will be what Chatgpt says. With google, we still do the effort of searching and using our mind to weigh things. With chatgpt, we don't even get to choose. What it says is unique. Just like the ultimate source of knowledge. That's too much power in the hand of a single entity. And knowing that we can bias those models makes me fear what can hapen in the future.
 
-Although I am not republican, I made a little experiment with chatgpt few months ago. I asked it to say something good about Donald Trump. It answered me that it doesn't do politics. I asked the same about Biden, and it created a very good essai. Now I am not saying Trump is good, but we can see a bias here. ChatGpt reflects the political view of its creators. That's not acceptable from a tool that can basically become a god in terms of knowledge source.
+Although I am not republican, I made a little experiment with chatgpt few months ago. I asked it to say something good about Donald Trump. It answered me that it doesn't do politics. I asked the same about Biden, and it created a very good essay. Now I am not saying Trump is good, but we can see a bias here. ChatGpt reflects the political view of its creators. That's not acceptable from a tool that can basically become a god in terms of knowledge source.
 I don't think that AI should decide if I should vote Left ot right. I don't think that AI should tell me what's right and what is wrong. Many things in life depend on the point of view.
 
 I don't beleive there is a way to have a 100% non biased AI. Bias is something inevitable given how these things work.
